@@ -4,7 +4,7 @@ This repo contains instructions for setting up a new Kubernetes cluster on an Op
 ## Deployment Setup
 We shall use the following deployment setup for the new cluster
 
-![Architecture](architecture.pdf)
+![Architecture](images/architecture.png)
 
 ## Specifications
 The following are the specifications for the new cluster (the nodes shall be installed with Ubuntu 22.04 LTS):
