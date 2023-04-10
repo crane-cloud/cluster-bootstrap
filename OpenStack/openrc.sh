@@ -1,0 +1,11 @@
+export OS_AUTH_URL=https://url:5000
+export OS_PROJECT_ID=5e**********
+export OS_PROJECT_NAME="CraneCloud"
+export OS_PROJECT_DOMAIN_ID=default
+export OS_USERNAME=username
+export OS_PASSWORD=password
+export OS_REGION_NAME=region
+export OS_INTERFACE=public
+export OS_IDENTITY_API_VERSION=3
+export OS_USER_DOMAIN_ID=default
+export OS_INSECURE=true
